@@ -1,0 +1,7 @@
+{
+  "server": "ftp.ftp.com",
+  "port": 21,
+  "user": "user",
+  "passwd": "passwd",
+  "remotedir": "/feeds"
+}

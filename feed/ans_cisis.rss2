@@ -1,0 +1,512 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <!--Atom feed ID = http://www.opikanoba.org/feeds/cisis-->
+    <title>Mise à jour de l'espace documentaire CI-SIS</title>
+    <atom:link href="https://www.opikanoba.org/feeds/ans_cisis.rss2" rel="self" type="application/rss+xml"/>
+    <link>https://esante.gouv.fr/interoperabilite/ci-sis/espace-publication</link>
+    <description>Referentiel CI-SIS</description>
+    <copyright>CC BY-SA 3.0 FR</copyright>
+    <managingEditor>frederic.laurent@gmail.com (Frederic LAURENT)</managingEditor>
+    <pubDate>Wed, 15 Sep 2021 17:20:54 +0000</pubDate>
+    <lastBuildDate>Wed, 15 Sep 2021 17:20:54 +0000</lastBuildDate>
+    <category>referentiel,ans,ci-sis,volets interoperabilite</category>
+    <generator>XSL stylesheet - http://github.com/flrt/xsl_atom2rss2</generator>
+    <!--Atom feed generator : https://github.com/flrt/atom_gen-->
+    <docs>https://esante.gouv.fr/interoperabilite/ci-sis/espace-publication</docs>
+    <item>
+      <title>Outil de vérification des documents CDA version 2.34Une version de l’outil de vérification de la conformité des fichiers aux format CDA R2 permet de vérifier la conformité des documents au format CDA R2 selon plusieurs critères :&#13;
+•	Vérification de la conformité CDA,&lt;br&gt;&#13;
+•	Vérification de la conformité de l’en-tête selon les spécifications internationales IHE,&lt;br&gt;&#13;
+•	Vérification de la conformité de l’en-tête selon les spécifications françaises (Volet Structuration minimale des documents médicaux),&lt;br&gt;&#13;
+•	Vérification de la conformité du corps (sections, entrées et jeux de valeurs) selon les spécifications internationales IHE,&lt;br&gt;&#13;
+•	Vérification de la conformité du corps (sections, entrées et jeux de valeurs) selon les spécifications françaises des sections et entrées IHE (Volet Modèles de contenus CDA),&lt;br&gt;&#13;
+•	Vérification de la conformité des sections et entrées spécifiques créées par l’ANS pour les volets français (Volet Modèles de contenus CDA),</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/testContenuCDA_20210910_V2.34.zip"&gt;testContenuCDA_20210910_V2.34.zip (11.58 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:cf676979a9d34ca70d64</guid>
+      <pubDate>Wed, 15 Sep 2021 17:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volet Généricisation : gestion des traces - Spécifications techniques</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_techniques_genericisation_gestion_traces-v1.5.pdf"&gt;ci-sis_specifications_techniques_genericisation_gestion_traces-v1.5.pdf (1.68 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:3a8ff32252a8a0e976d5</guid>
+      <pubDate>Wed, 15 Sep 2021 17:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gestion de traces Spécifications fonctionnelles des échanges</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_fonctionnelles_genericisation_gestion_traces-v1.4.pdf"&gt;ci-sis_specifications_fonctionnelles_genericisation_gestion_traces-v1.4.pdf (506.17 Ko)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:0ce064c0ebb225974dfa</guid>
+      <pubDate>Wed, 15 Sep 2021 17:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volet : généricisation – gestion des traces Etude des normes et standards</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_etude_normes_standards_genericisation_gestion_traces-v1.2_0.pdf"&gt;ci-sis_etude_normes_standards_genericisation_gestion_traces-v1.2_0.pdf (1.28 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:afb358446906a081378e</guid>
+      <pubDate>Wed, 15 Sep 2021 17:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volet Obstétrique et Périnatalité OBPRéférentiels - Cadre d’interopérabilité des SIS - Couche contenus - Volet Obstétrique et Périnatalité (OBP)</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_OBP_2021.01_20210913.pdf"&gt;CI-SIS_VOLET_CONTENUS_OBP_2021.01_20210913.pdf (4.69 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:a157023b7f7d5028f903</guid>
+      <pubDate>Wed, 15 Sep 2021 17:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf"&gt;CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf (5.61 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:fc457c27e3ac604e7e14</guid>
+      <pubDate>Wed, 15 Sep 2021 17:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf"&gt;CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf (3.84 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:d5c12df1f1842b932af5</guid>
+      <pubDate>Wed, 15 Sep 2021 17:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jeux de valeurs pour les volets métiersCI-SIS - Contenus - Vocabulaires et jeux de valeurs</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_Contenu_JDV_v1.81.xlsx"&gt;ANS_Contenu_JDV_v1.81.xlsx (661.13 Ko)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:06e81eff23ce8500c2d9</guid>
+      <pubDate>Wed, 15 Sep 2021 17:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Outil de vérification des documents CDA version 2.34Une version de l’outil de vérification de la conformité des fichiers aux format CDA R2 permet de vérifier la conformité des documents au format CDA R2 selon plusieurs critères :&#13;
+•	Vérification de la conformité CDA,&lt;br&gt;&#13;
+•	Vérification de la conformité de l’en-tête selon les spécifications internationales IHE,&lt;br&gt;&#13;
+•	Vérification de la conformité de l’en-tête selon les spécifications françaises (Volet Structuration minimale des documents médicaux),&lt;br&gt;&#13;
+•	Vérification de la conformité du corps (sections, entrées et jeux de valeurs) selon les spécifications internationales IHE,&lt;br&gt;&#13;
+•	Vérification de la conformité du corps (sections, entrées et jeux de valeurs) selon les spécifications françaises des sections et entrées IHE (Volet Modèles de contenus CDA),&lt;br&gt;&#13;
+•	Vérification de la conformité des sections et entrées spécifiques créées par l’ANS pour les volets français (Volet Modèles de contenus CDA),</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/testContenuCDA_20210910_V2.34.zip"&gt;testContenuCDA_20210910_V2.34.zip (11.58 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:cf676979a9d34ca70d64</guid>
+      <pubDate>Wed, 15 Sep 2021 17:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volet Généricisation : gestion des traces - Spécifications techniques</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_techniques_genericisation_gestion_traces-v1.5.pdf"&gt;ci-sis_specifications_techniques_genericisation_gestion_traces-v1.5.pdf (1.68 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:3a8ff32252a8a0e976d5</guid>
+      <pubDate>Wed, 15 Sep 2021 17:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gestion de traces Spécifications fonctionnelles des échanges</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_fonctionnelles_genericisation_gestion_traces-v1.4.pdf"&gt;ci-sis_specifications_fonctionnelles_genericisation_gestion_traces-v1.4.pdf (506.17 Ko)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:0ce064c0ebb225974dfa</guid>
+      <pubDate>Wed, 15 Sep 2021 17:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volet : généricisation – gestion des traces Etude des normes et standards</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_etude_normes_standards_genericisation_gestion_traces-v1.2_0.pdf"&gt;ci-sis_etude_normes_standards_genericisation_gestion_traces-v1.2_0.pdf (1.28 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:afb358446906a081378e</guid>
+      <pubDate>Wed, 15 Sep 2021 17:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volet Obstétrique et Périnatalité OBPRéférentiels - Cadre d’interopérabilité des SIS - Couche contenus - Volet Obstétrique et Périnatalité (OBP)</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_OBP_2021.01_20210913.pdf"&gt;CI-SIS_VOLET_CONTENUS_OBP_2021.01_20210913.pdf (4.69 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:a157023b7f7d5028f903</guid>
+      <pubDate>Wed, 15 Sep 2021 17:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf"&gt;CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf (5.61 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:fc457c27e3ac604e7e14</guid>
+      <pubDate>Wed, 15 Sep 2021 17:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf"&gt;CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf (3.84 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:d5c12df1f1842b932af5</guid>
+      <pubDate>Wed, 15 Sep 2021 17:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jeux de valeurs pour les volets métiersCI-SIS - Contenus - Vocabulaires et jeux de valeurs</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_Contenu_JDV_v1.81.xlsx"&gt;ANS_Contenu_JDV_v1.81.xlsx (661.13 Ko)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:06e81eff23ce8500c2d9</guid>
+      <pubDate>Wed, 15 Sep 2021 17:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Outil de vérification des documents CDA version 2.34Une version de l’outil de vérification de la conformité des fichiers aux format CDA R2 permet de vérifier la conformité des documents au format CDA R2 selon plusieurs critères :&#13;
+•	Vérification de la conformité CDA,&lt;br&gt;&#13;
+•	Vérification de la conformité de l’en-tête selon les spécifications internationales IHE,&lt;br&gt;&#13;
+•	Vérification de la conformité de l’en-tête selon les spécifications françaises (Volet Structuration minimale des documents médicaux),&lt;br&gt;&#13;
+•	Vérification de la conformité du corps (sections, entrées et jeux de valeurs) selon les spécifications internationales IHE,&lt;br&gt;&#13;
+•	Vérification de la conformité du corps (sections, entrées et jeux de valeurs) selon les spécifications françaises des sections et entrées IHE (Volet Modèles de contenus CDA),&lt;br&gt;&#13;
+•	Vérification de la conformité des sections et entrées spécifiques créées par l’ANS pour les volets français (Volet Modèles de contenus CDA),</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/testContenuCDA_20210910_V2.34.zip"&gt;testContenuCDA_20210910_V2.34.zip (11.58 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:cf676979a9d34ca70d64</guid>
+      <pubDate>Wed, 15 Sep 2021 17:19:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volet Généricisation : gestion des traces - Spécifications techniques</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_techniques_genericisation_gestion_traces-v1.5.pdf"&gt;ci-sis_specifications_techniques_genericisation_gestion_traces-v1.5.pdf (1.68 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:3a8ff32252a8a0e976d5</guid>
+      <pubDate>Wed, 15 Sep 2021 17:19:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gestion de traces Spécifications fonctionnelles des échanges</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_fonctionnelles_genericisation_gestion_traces-v1.4.pdf"&gt;ci-sis_specifications_fonctionnelles_genericisation_gestion_traces-v1.4.pdf (506.17 Ko)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:0ce064c0ebb225974dfa</guid>
+      <pubDate>Wed, 15 Sep 2021 17:19:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volet : généricisation – gestion des traces Etude des normes et standards</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_etude_normes_standards_genericisation_gestion_traces-v1.2_0.pdf"&gt;ci-sis_etude_normes_standards_genericisation_gestion_traces-v1.2_0.pdf (1.28 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:afb358446906a081378e</guid>
+      <pubDate>Wed, 15 Sep 2021 17:19:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volet Obstétrique et Périnatalité OBPRéférentiels - Cadre d’interopérabilité des SIS - Couche contenus - Volet Obstétrique et Périnatalité (OBP)</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_OBP_2021.01_20210913.pdf"&gt;CI-SIS_VOLET_CONTENUS_OBP_2021.01_20210913.pdf (4.69 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:a157023b7f7d5028f903</guid>
+      <pubDate>Wed, 15 Sep 2021 17:19:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf"&gt;CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf (5.61 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:fc457c27e3ac604e7e14</guid>
+      <pubDate>Wed, 15 Sep 2021 17:19:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf"&gt;CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf (3.84 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:d5c12df1f1842b932af5</guid>
+      <pubDate>Wed, 15 Sep 2021 17:19:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jeux de valeurs pour les volets métiersCI-SIS - Contenus - Vocabulaires et jeux de valeurs</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_Contenu_JDV_v1.81.xlsx"&gt;ANS_Contenu_JDV_v1.81.xlsx (661.13 Ko)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:06e81eff23ce8500c2d9</guid>
+      <pubDate>Wed, 15 Sep 2021 17:19:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volet Ophtalmologie - Bilan de réfraction - Spécifications techniques</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_volet_contenus_oph-bre_std_cda_v2021.01.pdf"&gt;ci-sis_volet_contenus_oph-bre_std_cda_v2021.01.pdf (3.09 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:a27606acc213cd944da7</guid>
+      <pubDate>Wed, 15 Sep 2021 16:56:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volet Ophtalmologie - Bilan de réfraction - Spécifications fonctionnelles</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_volet_contenus_oph-bre_sfd_v2021.01.pdf"&gt;ci-sis_volet_contenus_oph-bre_sfd_v2021.01.pdf (1.52 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:7b80ae7d75f50773a26f</guid>
+      <pubDate>Wed, 15 Sep 2021 16:56:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volet Ophtalmologie - Bilan de réfraction - Spécifications techniques</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_volet_contenus_oph-bre_std_cda_v2021.01.pdf"&gt;ci-sis_volet_contenus_oph-bre_std_cda_v2021.01.pdf (3.09 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:a27606acc213cd944da7</guid>
+      <pubDate>Wed, 15 Sep 2021 16:53:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volet Ophtalmologie - Bilan de réfraction - Spécifications fonctionnelles</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;1 Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_volet_contenus_oph-bre_sfd_v2021.01.pdf"&gt;ci-sis_volet_contenus_oph-bre_sfd_v2021.01.pdf (1.52 Mo)&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ans:cisis:7b80ae7d75f50773a26f</guid>
+      <pubDate>Wed, 15 Sep 2021 16:53:48 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

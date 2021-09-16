@@ -1,0 +1,6 @@
+atom_gen
+tweepy
+mailer
+lxml
+atomtorss2==1.1
+arrow

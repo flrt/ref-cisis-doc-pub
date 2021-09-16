@@ -1,0 +1,8 @@
+{
+  "feed_config": "conf/feed_config.json",
+  "feed_ftp": "conf/feed_ftp.json",
+  "feed_base": "https://www.opikanoba.org/feeds",
+  "feed_data": "data/cisis_feed.json",
+  "twitter_config": "conf/twitter.json",
+  "docmap": "cisis-doc/data/documents.json"
+}

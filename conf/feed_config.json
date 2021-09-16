@@ -1,0 +1,20 @@
+{
+  "header":{
+    "title": "Mise à jour de l'espace documentaire CI-SIS",
+    "subtitle": "Referentiel CI-SIS",
+    "link" : "https://esante.gouv.fr/interoperabilite/ci-sis/espace-publication",
+    "author": {"name":"Frederic LAURENT", "email":"frederic.laurent@gmail.com"},
+    "id":"http://www.opikanoba.org/feeds/cisis",
+    "category":"referentiel,ans,ci-sis,volets interoperabilite",
+    "atom_feedname": "ans_cisis.xml",
+    "rss2_feedname": "ans_cisis.rss2"
+
+  },
+  "entry" : {
+    "link_mask":"http://",
+    "urn_mask":"urn:ans:cisis:u",
+    "title_mask" : "Version",
+    "content_mask": "Version"
+  },
+  "output_dir":"feed"
+}

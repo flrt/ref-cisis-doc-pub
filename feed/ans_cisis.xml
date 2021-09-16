@@ -1,0 +1,622 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://www.opikanoba.org/feeds/cisis</id>
+  <title>Mise à jour de l'espace documentaire CI-SIS</title>
+  <subtitle>Referentiel CI-SIS</subtitle>
+  <link href="https://esante.gouv.fr/interoperabilite/ci-sis/espace-publication" rel="related"/>
+  <link href="https://www.opikanoba.org/feeds/ans_cisis.xml" rel="self"/>
+  <updated>2021-09-15T17:20:54.595784+00:00</updated>
+  <author>
+    <name>Frederic LAURENT</name>
+    <email>frederic.laurent@gmail.com</email>
+  </author>
+  <category term="referentiel,ans,ci-sis,volets interoperabilite"/>
+  <generator uri="https://github.com/flrt/atom_gen" version="1.0">python program - atom.py</generator>
+  <rights>CC BY-SA 3.0 FR</rights>
+  <entry>
+    <title>Outil de vérification des documents CDA version 2.34Une version de l’outil de vérification de la conformité des fichiers aux format CDA R2 permet de vérifier la conformité des documents au format CDA R2 selon plusieurs critères :&#13;
+•	Vérification de la conformité CDA,&lt;br&gt;&#13;
+•	Vérification de la conformité de l’en-tête selon les spécifications internationales IHE,&lt;br&gt;&#13;
+•	Vérification de la conformité de l’en-tête selon les spécifications françaises (Volet Structuration minimale des documents médicaux),&lt;br&gt;&#13;
+•	Vérification de la conformité du corps (sections, entrées et jeux de valeurs) selon les spécifications internationales IHE,&lt;br&gt;&#13;
+•	Vérification de la conformité du corps (sections, entrées et jeux de valeurs) selon les spécifications françaises des sections et entrées IHE (Volet Modèles de contenus CDA),&lt;br&gt;&#13;
+•	Vérification de la conformité des sections et entrées spécifiques créées par l’ANS pour les volets français (Volet Modèles de contenus CDA),</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/testContenuCDA_20210910_V2.34.zip" rel="related" type="application/zip"/>
+    <id>urn:ans:cisis:cf676979a9d34ca70d64</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/testContenuCDA_20210910_V2.34.zip">testContenuCDA_20210910_V2.34.zip (11.58 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:20:54.603809+00:00</updated>
+    <summary>Mise à jour de l'annexe Outil de vérification des documents CDA [Métier] date 10/09/2021, version 2.34</summary>
+  </entry>
+  <entry>
+    <title>Volet Généricisation : gestion des traces - Spécifications techniques</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_techniques_genericisation_gestion_traces-v1.5.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:3a8ff32252a8a0e976d5</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_techniques_genericisation_gestion_traces-v1.5.pdf">ci-sis_specifications_techniques_genericisation_gestion_traces-v1.5.pdf (1.68 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:20:54.603809+00:00</updated>
+    <summary>Mise à jour du volet Traçabilité d’événements [Service] date 10/09/2021, version ​1.5</summary>
+  </entry>
+  <entry>
+    <title>Gestion de traces Spécifications fonctionnelles des échanges</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_fonctionnelles_genericisation_gestion_traces-v1.4.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:0ce064c0ebb225974dfa</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_fonctionnelles_genericisation_gestion_traces-v1.4.pdf">ci-sis_specifications_fonctionnelles_genericisation_gestion_traces-v1.4.pdf (506.17 Ko)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:20:54.603809+00:00</updated>
+    <summary>Mise à jour du volet Traçabilité d’événements [Service] date 10/09/2021, version ​1.4</summary>
+  </entry>
+  <entry>
+    <title>Volet : généricisation – gestion des traces Etude des normes et standards</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_etude_normes_standards_genericisation_gestion_traces-v1.2_0.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:afb358446906a081378e</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_etude_normes_standards_genericisation_gestion_traces-v1.2_0.pdf">ci-sis_etude_normes_standards_genericisation_gestion_traces-v1.2_0.pdf (1.28 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:20:54.595784+00:00</updated>
+    <summary>Mise à jour du volet Traçabilité d’événements [Service] date 10/09/2021, version ​1.2</summary>
+  </entry>
+  <entry>
+    <title>Volet Obstétrique et Périnatalité OBPRéférentiels - Cadre d’interopérabilité des SIS - Couche contenus - Volet Obstétrique et Périnatalité (OBP)</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_OBP_2021.01_20210913.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:a157023b7f7d5028f903</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_OBP_2021.01_20210913.pdf">CI-SIS_VOLET_CONTENUS_OBP_2021.01_20210913.pdf (4.69 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:20:54.595784+00:00</updated>
+    <summary>Mise à jour du volet OBP - Obstétrique et Périnatalité [Métier] date 13/09/2021, version 2021.01</summary>
+  </entry>
+  <entry>
+    <title>CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:fc457c27e3ac604e7e14</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf">CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf (5.61 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:20:54.595784+00:00</updated>
+    <summary>Mise à jour du volet CANCER-CR-GM – Compte-rendu de génétique moléculaire [Métier] date 30/08/2021, version 2021.01</summary>
+  </entry>
+  <entry>
+    <title>CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:d5c12df1f1842b932af5</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf">CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf (3.84 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:20:54.595784+00:00</updated>
+    <summary>Mise à jour du volet CANCER-CR-GM – Compte-rendu de génétique moléculaire [Métier] date 30/08/2021, version 2021.01</summary>
+  </entry>
+  <entry>
+    <title>Jeux de valeurs pour les volets métiersCI-SIS - Contenus - Vocabulaires et jeux de valeurs</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_Contenu_JDV_v1.81.xlsx" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:06e81eff23ce8500c2d9</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_Contenu_JDV_v1.81.xlsx">ANS_Contenu_JDV_v1.81.xlsx (661.13 Ko)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:20:54.595784+00:00</updated>
+    <summary>Mise à jour de l'annexe Vocabulaire et jeux de valeurs [Métier] date 10/09/2021, version 1.81</summary>
+  </entry>
+  <entry>
+    <title>Outil de vérification des documents CDA version 2.34Une version de l’outil de vérification de la conformité des fichiers aux format CDA R2 permet de vérifier la conformité des documents au format CDA R2 selon plusieurs critères :&#13;
+•	Vérification de la conformité CDA,&lt;br&gt;&#13;
+•	Vérification de la conformité de l’en-tête selon les spécifications internationales IHE,&lt;br&gt;&#13;
+•	Vérification de la conformité de l’en-tête selon les spécifications françaises (Volet Structuration minimale des documents médicaux),&lt;br&gt;&#13;
+•	Vérification de la conformité du corps (sections, entrées et jeux de valeurs) selon les spécifications internationales IHE,&lt;br&gt;&#13;
+•	Vérification de la conformité du corps (sections, entrées et jeux de valeurs) selon les spécifications françaises des sections et entrées IHE (Volet Modèles de contenus CDA),&lt;br&gt;&#13;
+•	Vérification de la conformité des sections et entrées spécifiques créées par l’ANS pour les volets français (Volet Modèles de contenus CDA),</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/testContenuCDA_20210910_V2.34.zip" rel="related" type="application/zip"/>
+    <id>urn:ans:cisis:cf676979a9d34ca70d64</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/testContenuCDA_20210910_V2.34.zip">testContenuCDA_20210910_V2.34.zip (11.58 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:20:24.185526+00:00</updated>
+    <summary>Mise à jour de l'annexe Outil de vérification des documents CDA [Métier] date 10/09/2021, version 2.34</summary>
+  </entry>
+  <entry>
+    <title>Volet Généricisation : gestion des traces - Spécifications techniques</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_techniques_genericisation_gestion_traces-v1.5.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:3a8ff32252a8a0e976d5</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_techniques_genericisation_gestion_traces-v1.5.pdf">ci-sis_specifications_techniques_genericisation_gestion_traces-v1.5.pdf (1.68 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:20:24.185526+00:00</updated>
+    <summary>Mise à jour du volet Traçabilité d’événements [Service] date 10/09/2021, version ​1.5</summary>
+  </entry>
+  <entry>
+    <title>Gestion de traces Spécifications fonctionnelles des échanges</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_fonctionnelles_genericisation_gestion_traces-v1.4.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:0ce064c0ebb225974dfa</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_fonctionnelles_genericisation_gestion_traces-v1.4.pdf">ci-sis_specifications_fonctionnelles_genericisation_gestion_traces-v1.4.pdf (506.17 Ko)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:20:24.185526+00:00</updated>
+    <summary>Mise à jour du volet Traçabilité d’événements [Service] date 10/09/2021, version ​1.4</summary>
+  </entry>
+  <entry>
+    <title>Volet : généricisation – gestion des traces Etude des normes et standards</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_etude_normes_standards_genericisation_gestion_traces-v1.2_0.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:afb358446906a081378e</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_etude_normes_standards_genericisation_gestion_traces-v1.2_0.pdf">ci-sis_etude_normes_standards_genericisation_gestion_traces-v1.2_0.pdf (1.28 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:20:24.185526+00:00</updated>
+    <summary>Mise à jour du volet Traçabilité d’événements [Service] date 10/09/2021, version ​1.2</summary>
+  </entry>
+  <entry>
+    <title>Volet Obstétrique et Périnatalité OBPRéférentiels - Cadre d’interopérabilité des SIS - Couche contenus - Volet Obstétrique et Périnatalité (OBP)</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_OBP_2021.01_20210913.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:a157023b7f7d5028f903</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_OBP_2021.01_20210913.pdf">CI-SIS_VOLET_CONTENUS_OBP_2021.01_20210913.pdf (4.69 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:20:24.185526+00:00</updated>
+    <summary>Mise à jour du volet OBP - Obstétrique et Périnatalité [Métier] date 13/09/2021, version 2021.01</summary>
+  </entry>
+  <entry>
+    <title>CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:fc457c27e3ac604e7e14</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf">CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf (5.61 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:20:24.185526+00:00</updated>
+    <summary>Mise à jour du volet CANCER-CR-GM – Compte-rendu de génétique moléculaire [Métier] date 30/08/2021, version 2021.01</summary>
+  </entry>
+  <entry>
+    <title>CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:d5c12df1f1842b932af5</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf">CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf (3.84 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:20:24.185526+00:00</updated>
+    <summary>Mise à jour du volet CANCER-CR-GM – Compte-rendu de génétique moléculaire [Métier] date 30/08/2021, version 2021.01</summary>
+  </entry>
+  <entry>
+    <title>Jeux de valeurs pour les volets métiersCI-SIS - Contenus - Vocabulaires et jeux de valeurs</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_Contenu_JDV_v1.81.xlsx" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:06e81eff23ce8500c2d9</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_Contenu_JDV_v1.81.xlsx">ANS_Contenu_JDV_v1.81.xlsx (661.13 Ko)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:20:24.185526+00:00</updated>
+    <summary>Mise à jour de l'annexe Vocabulaire et jeux de valeurs [Métier] date 10/09/2021, version 1.81</summary>
+  </entry>
+  <entry>
+    <title>Outil de vérification des documents CDA version 2.34Une version de l’outil de vérification de la conformité des fichiers aux format CDA R2 permet de vérifier la conformité des documents au format CDA R2 selon plusieurs critères :&#13;
+•	Vérification de la conformité CDA,&lt;br&gt;&#13;
+•	Vérification de la conformité de l’en-tête selon les spécifications internationales IHE,&lt;br&gt;&#13;
+•	Vérification de la conformité de l’en-tête selon les spécifications françaises (Volet Structuration minimale des documents médicaux),&lt;br&gt;&#13;
+•	Vérification de la conformité du corps (sections, entrées et jeux de valeurs) selon les spécifications internationales IHE,&lt;br&gt;&#13;
+•	Vérification de la conformité du corps (sections, entrées et jeux de valeurs) selon les spécifications françaises des sections et entrées IHE (Volet Modèles de contenus CDA),&lt;br&gt;&#13;
+•	Vérification de la conformité des sections et entrées spécifiques créées par l’ANS pour les volets français (Volet Modèles de contenus CDA),</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/testContenuCDA_20210910_V2.34.zip" rel="related" type="application/zip"/>
+    <id>urn:ans:cisis:cf676979a9d34ca70d64</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/testContenuCDA_20210910_V2.34.zip">testContenuCDA_20210910_V2.34.zip (11.58 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:19:33.070698+00:00</updated>
+    <summary>Mise à jour de l'annexe Outil de vérification des documents CDA [Métier] date 10/09/2021, version 2.34</summary>
+  </entry>
+  <entry>
+    <title>Volet Généricisation : gestion des traces - Spécifications techniques</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_techniques_genericisation_gestion_traces-v1.5.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:3a8ff32252a8a0e976d5</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_techniques_genericisation_gestion_traces-v1.5.pdf">ci-sis_specifications_techniques_genericisation_gestion_traces-v1.5.pdf (1.68 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:19:33.070698+00:00</updated>
+    <summary>Mise à jour du volet Traçabilité d’événements [Service] date 10/09/2021, version ​1.5</summary>
+  </entry>
+  <entry>
+    <title>Gestion de traces Spécifications fonctionnelles des échanges</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_fonctionnelles_genericisation_gestion_traces-v1.4.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:0ce064c0ebb225974dfa</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_fonctionnelles_genericisation_gestion_traces-v1.4.pdf">ci-sis_specifications_fonctionnelles_genericisation_gestion_traces-v1.4.pdf (506.17 Ko)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:19:33.070698+00:00</updated>
+    <summary>Mise à jour du volet Traçabilité d’événements [Service] date 10/09/2021, version ​1.4</summary>
+  </entry>
+  <entry>
+    <title>Volet : généricisation – gestion des traces Etude des normes et standards</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_etude_normes_standards_genericisation_gestion_traces-v1.2_0.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:afb358446906a081378e</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_etude_normes_standards_genericisation_gestion_traces-v1.2_0.pdf">ci-sis_etude_normes_standards_genericisation_gestion_traces-v1.2_0.pdf (1.28 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:19:33.070698+00:00</updated>
+    <summary>Mise à jour du volet Traçabilité d’événements [Service] date 10/09/2021, version ​1.2</summary>
+  </entry>
+  <entry>
+    <title>Volet Obstétrique et Périnatalité OBPRéférentiels - Cadre d’interopérabilité des SIS - Couche contenus - Volet Obstétrique et Périnatalité (OBP)</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_OBP_2021.01_20210913.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:a157023b7f7d5028f903</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_OBP_2021.01_20210913.pdf">CI-SIS_VOLET_CONTENUS_OBP_2021.01_20210913.pdf (4.69 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:19:33.070698+00:00</updated>
+    <summary>Mise à jour du volet OBP - Obstétrique et Périnatalité [Métier] date 13/09/2021, version 2021.01</summary>
+  </entry>
+  <entry>
+    <title>CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:fc457c27e3ac604e7e14</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf">CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf (5.61 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:19:33.070698+00:00</updated>
+    <summary>Mise à jour du volet CANCER-CR-GM – Compte-rendu de génétique moléculaire [Métier] date 30/08/2021, version 2021.01</summary>
+  </entry>
+  <entry>
+    <title>CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:d5c12df1f1842b932af5</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf">CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf (3.84 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:19:33.070698+00:00</updated>
+    <summary>Mise à jour du volet CANCER-CR-GM – Compte-rendu de génétique moléculaire [Métier] date 30/08/2021, version 2021.01</summary>
+  </entry>
+  <entry>
+    <title>Jeux de valeurs pour les volets métiersCI-SIS - Contenus - Vocabulaires et jeux de valeurs</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_Contenu_JDV_v1.81.xlsx" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:06e81eff23ce8500c2d9</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_Contenu_JDV_v1.81.xlsx">ANS_Contenu_JDV_v1.81.xlsx (661.13 Ko)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T17:19:33.070698+00:00</updated>
+    <summary>Mise à jour de l'annexe Vocabulaire et jeux de valeurs [Métier] date 10/09/2021, version 1.81</summary>
+  </entry>
+  <entry>
+    <title>Volet Ophtalmologie - Bilan de réfraction - Spécifications techniques</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_volet_contenus_oph-bre_std_cda_v2021.01.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:a27606acc213cd944da7</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_volet_contenus_oph-bre_std_cda_v2021.01.pdf">ci-sis_volet_contenus_oph-bre_std_cda_v2021.01.pdf (3.09 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T16:56:25.254599+00:00</updated>
+    <summary>Mise à jour du volet OPH-BRE - Ophtalmologie - Bilan de réfraction [Métier], version 2021.01</summary>
+  </entry>
+  <entry>
+    <title>Volet Ophtalmologie - Bilan de réfraction - Spécifications fonctionnelles</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_volet_contenus_oph-bre_sfd_v2021.01.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:7b80ae7d75f50773a26f</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_volet_contenus_oph-bre_sfd_v2021.01.pdf">ci-sis_volet_contenus_oph-bre_sfd_v2021.01.pdf (1.52 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T16:56:25.254599+00:00</updated>
+    <summary>Mise à jour du volet OPH-BRE - Ophtalmologie - Bilan de réfraction [Métier], version 2021.01</summary>
+  </entry>
+  <entry>
+    <title>Volet Ophtalmologie - Bilan de réfraction - Spécifications techniques</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_volet_contenus_oph-bre_std_cda_v2021.01.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:a27606acc213cd944da7</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_volet_contenus_oph-bre_std_cda_v2021.01.pdf">ci-sis_volet_contenus_oph-bre_std_cda_v2021.01.pdf (3.09 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T16:53:48.538668+00:00</updated>
+    <summary>Mise à jour du volet OPH-BRE - Ophtalmologie - Bilan de réfraction [Métier], version 2021.01</summary>
+  </entry>
+  <entry>
+    <title>Volet Ophtalmologie - Bilan de réfraction - Spécifications fonctionnelles</title>
+    <link href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_volet_contenus_oph-bre_sfd_v2021.01.pdf" rel="related" type="application/octet-stream"/>
+    <id>urn:ans:cisis:7b80ae7d75f50773a26f</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_volet_contenus_oph-bre_sfd_v2021.01.pdf">ci-sis_volet_contenus_oph-bre_sfd_v2021.01.pdf (1.52 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2021-09-15T16:53:48.538668+00:00</updated>
+    <summary>Mise à jour du volet OPH-BRE - Ophtalmologie - Bilan de réfraction [Métier], version 2021.01</summary>
+  </entry>
+</feed>
